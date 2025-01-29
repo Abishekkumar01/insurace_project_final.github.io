@@ -1,1 +1,1 @@
-# insurace_project_final.github.io
+# insurance_premium_prediction
